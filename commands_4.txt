@@ -1,0 +1,4 @@
+command
+takeoff
+go 30 40 70 10
+land

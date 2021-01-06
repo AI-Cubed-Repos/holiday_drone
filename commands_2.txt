@@ -1,0 +1,16 @@
+command
+takeoff
+delay 5
+up 20
+down 20
+left 20
+right 20
+foward 30
+back 30
+cw 90
+forward 30
+back 30
+ccw 90
+back 30
+forward 30
+land

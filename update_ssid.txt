@@ -1,0 +1,3 @@
+command
+wifi ai3drone001 20210101
+stop

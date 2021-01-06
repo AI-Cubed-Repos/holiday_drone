@@ -1,0 +1,8 @@
+command
+takeoff
+delay 5
+flip l
+flip r
+flip f
+flip b
+land

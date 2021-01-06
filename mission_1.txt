@@ -1,0 +1,9 @@
+command
+mon
+mdirection 2
+takeoff
+go 20 -20 30 20 m1
+jump 40 20 40 10 5 m1 m2
+moff
+land
+
